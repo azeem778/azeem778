@@ -59,16 +59,20 @@ I'm a **Senior Front-End Developer** with 4+ years of experience building fast, 
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| **IPTV Duplex Admin Panel** | Full-featured admin panel (Next.js + GraphQL) with real-time analytics, channel/playlist CRUD, and role-based subscription management. |
-| **Underground Empire / Medixo** | Next.js multi-panel dashboards and product platforms with SSR and optimized performance. |
-| **Hopsic Management System** | Multi-panel reservation & management platform with role-based access and real-time data flows. |
-| **Jusoor Selling Platform** | Full-featured marketplace/admin system built in React JS with advanced state management. |
-| **Epicridelondon / Golden Chauffeur / Hair Plus Transplant** | Polished, responsive client websites with seamless API integration. |
-| **Online Course Platform / E-commerce Website** | Bootstrap + jQuery driven platforms with interactive, mobile-optimized user experiences. |
+| Project | Live Demo | Description |
+|---|---|---|
+| **IPTV Duplex Admin Panel** | [View Demo](https://duplex-iptv-admin-panel.vercel.app/auth/login) | Full-featured admin panel (Next.js + GraphQL) with real-time analytics, channel/playlist CRUD, and role-based subscription management. |
+| **IPTV Duplex Reseller Panel** | [View Demo](https://duplex-iptv-reseller-panel.vercel.app/auth/login) | Reseller-facing panel for managing subscriptions and playlists within the IPTV platform. |
+| **IPTV Duplex Website** | [View Demo](https://duplex-iptv-website.vercel.app/) | Public-facing marketing website for the IPTV Duplex platform. |
+| **Hopsic Management System** | [View Demo](https://whatsapp-reservation-client-admin-p.vercel.app/login) | WhatsApp-integrated reservation & management admin panel with role-based access and real-time data flows. |
+| **Jusoor Selling Platform** | [View Demo](https://jasoor-website.vercel.app/) | Full-featured marketplace platform built in React JS with advanced state management. |
+| **Medixo Product Platform** | [View Demo](https://medixo-indol.vercel.app/) | Next.js product platform with SSR and optimized performance. |
+| **Shahin Insurance Aggregator** | [View Demo](https://shahin-insurance-aggregator-admin-p.vercel.app/) | Admin panel for an insurance aggregator platform with multi-panel data management. |
+| **TeleHealth Website** | [View Demo](https://telehealtth-website.vercel.app/) | Responsive healthcare platform website with modern, accessible UI. |
+| **Underground Empire Business Hub** | [View Demo](https://underground-empire-business-hub-frontend.vercel.app/) | Next.js multi-panel business dashboard with SSR and optimized performance. |
+| **TAG Dev Website** | [View Demo](https://tag-dev-website-frontend.vercel.app/) | Polished, responsive front-end website with seamless API integration. |
 
-> 💡 Pin the actual repos for these projects on your profile (Step 5 below) so they show up as live links instead of a table.
+> 💡 Some demos open to a login screen — that's expected for admin/reseller panels since they're client production systems.
 
 ---
 
@@ -83,16 +87,7 @@ Delivered production React websites, converted designs to responsive UI, managed
 ---
 
 ### 🎓 Education
-**Software Engineering** — Abbottabad University of Science & Technology (CGPA: 3.73) | 2015 – 2019
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azeem778&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem778&layout=compact&theme=radical" />
-</p>
+**B.Tech in Computer Science** — Abbottabad University of Science & Technology (CGPA: 3.73) | 2015 – 2019
 
 ---
 
