@@ -90,8 +90,8 @@ Delivered production React websites, converted designs to responsive UI, managed
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azeemkh778&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeemkh778&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azeem778&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem778&layout=compact&theme=radical" />
 </p>
 
 ---
