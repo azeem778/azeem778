@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Azeem 👋</h1>
-<h3 align="center">Senior Front-End Developer | React JS • Next.js • JavaScript</h3>
+<h3 align="center">Front-End Developer | React JS • Next.js • JavaScript</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadazeemk" target="_blank">
